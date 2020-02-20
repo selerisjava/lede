@@ -8,7 +8,7 @@
 # 
 
 #name: OpenWrt-CI
-name: x64
+name: x64平台
 
 on:
   push:
